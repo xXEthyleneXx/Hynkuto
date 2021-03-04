@@ -1,0 +1,6 @@
+neofetch
+nload
+htop
+iotop
+iftop
+ranger
